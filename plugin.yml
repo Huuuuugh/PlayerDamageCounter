@@ -1,0 +1,8 @@
+name: PlayerDamageCounterMaster
+main: PlayerDamageCounter.a
+author: Huuuuugh
+version: 2.8
+commands:
+  damagecounter:
+    description: abaaba
+    usage: /<command>
