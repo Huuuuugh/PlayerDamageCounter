@@ -6,5 +6,5 @@ My code is poor.
 
 这是一个给Bukkit的插件，用来记录玩家造成的伤害。
 我懒死了，所以我没做排名系统。
-用指令(/damagecounter)得到伤害的数据
+用指令(/damagecounter)得到伤害的数据。
 代码烂死了，将就看吧
